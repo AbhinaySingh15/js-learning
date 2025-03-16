@@ -58,3 +58,14 @@ console.log( (3 + 4) * 5 % 3); // aesa likho
 
 console.log (+true);
 console.log(+"");  // ye preffered nhi hai
+
+let num1, num2, num3
+
+num1 = num1 = num3 = 2 + 2 // ese tricky jizze nhi chalti 
+
+let gameCounter = 100
+++gameCounter; // prefix
+//gameCounter++; // postfix
+console.log(gameCounter);
+
+// read about prefix and post fix in mdn
